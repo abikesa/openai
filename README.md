@@ -18,7 +18,7 @@
      - Fine-tune:: OpenAI
    - Ontology
    - Time/Size/[Power](https://www.youtube.com/watch?v=U9mJuUkhUzk)
-     - Microsoft
+     - Microsoft's Azure
    - Change
 
    ---
@@ -33,3 +33,9 @@
    - Example of GPTs: code.org
    - Middle School: 23/45
    - Video game character picking up coins
+
+    ----
+
+   - Agent-like experiences
+   - Shopify, etc
+   - New Assistants API to streamline this
