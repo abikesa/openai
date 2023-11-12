@@ -45,3 +45,9 @@
    - GPTs are precursors to agents who'll be doing tasks for you
    - We believe in gradual iterative development of agents
    - Help you to know what the world is going to be like
+  
+   ---
+
+   - AI is about individual empowerment
+   - Future that we'll architect together
+   - Building agents that empower your journey
