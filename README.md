@@ -39,3 +39,9 @@
    - Agent-like experiences
    - Shopify, etc
    - New Assistants API to streamline this
+
+    ---
+
+   - GPTs are precursors to agents who'll be doing tasks for you
+   - We believe in gradual iterative development of agents
+   - Help you to know what the world is going to be like
