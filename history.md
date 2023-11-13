@@ -11,11 +11,11 @@
    - Nyege revelers
    - Upper limits
    - Dionysian
-   - Physico-Chemistry vs. Meta
+   - [Physico-Chemistry](https://en.wikipedia.org/wiki/Microsoft_Azure) vs. Meta
    - Re`volt`
      
 2. Inference
-   - Change makers
+   - [Change](https://en.wikipedia.org/wiki/Agency_(sociology)) makers
    - Optimal flow
    - Mishmash
    - Knowledge vs. Religion
