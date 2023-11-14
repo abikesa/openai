@@ -1,3 +1,5 @@
+![](anthropocene.png)
+
 ```
 1. Physical vs. Meta
                     \
@@ -17,7 +19,7 @@
    - Epistemology
      - Fine-tune:: OpenAI
    - Ontology
-   - [Time]()/[Scale](https://www.youtube.com/watch?v=L_Guz73e6fw)/[Power](https://www.youtube.com/watch?v=U9mJuUkhUzk)
+   - [Time](https://github.com/abikesa/openai/blob/main/anthropocene.png)/[Scale](https://www.youtube.com/watch?v=L_Guz73e6fw)/[Power](https://www.youtube.com/watch?v=U9mJuUkhUzk)
      - Microsoft's Azure
    - Change
 
