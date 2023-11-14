@@ -17,7 +17,7 @@
    - Epistemology
      - Fine-tune:: OpenAI
    - Ontology
-   - Time/Size/[Power](https://www.youtube.com/watch?v=U9mJuUkhUzk)
+   - [Time]()/[Scale](https://www.youtube.com/watch?v=L_Guz73e6fw)/[Power](https://www.youtube.com/watch?v=U9mJuUkhUzk)
      - Microsoft's Azure
    - Change
 
