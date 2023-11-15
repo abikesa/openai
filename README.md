@@ -8,21 +8,24 @@
                             4. Ontology/Qualities
 ```
 
-1. Modes
-2. Qualities
-3. Genres
+1. Genres
+2. History
+3. Modes
 4. History
-5. Voicings
+5. Qualities
    - Physical vs. Meta
      - Data vs. Credo
    - Identity
    - Epistemology
-     - Fine-tune:: OpenAI
+     - Fine-tune:: OpenAI, [RLHF](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback)
+     - Not at all as data-intensive as the underlying models
+     - `So OpenAI can do this "safely" away from Microsoft`
    - Ontology
    - [Time](https://github.com/abikesa/openai/blob/main/anthropocene.png)/[Scale](https://www.youtube.com/watch?v=L_Guz73e6fw)/[Power](https://www.youtube.com/watch?v=U9mJuUkhUzk)
      - Microsoft's Azure
    - Change
-
+6. Pocket
+   
    ---
    
    gradual iterative development of `agents`:: [GPTs](https://www.youtube.com/watch?v=U9mJuUkhUzk) (publishable)
