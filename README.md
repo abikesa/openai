@@ -29,6 +29,9 @@
    ---
    
    gradual iterative development of `agents`:: [GPTs](https://www.youtube.com/watch?v=U9mJuUkhUzk) (publishable)
+   - [Safety](https://www.youtube.com/watch?v=U9mJuUkhUzk) best approached this way
+     - Do regulators do the same or they issue monstrous laws to stiffle this sort of free, responsible, iteration?
+     - Key argument for essay with Charles
    - Instructions
    - Expanded knowledge
    - ***Actions***
