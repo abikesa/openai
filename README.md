@@ -62,6 +62,12 @@
    - [Azure credits](https://www.youtube.com/watch?v=U9mJuUkhUzk): 15:00/45:35
    - Work loads
    - Data patterns
+   - Infrastructure
+     - Power
+     - DC
+     - Rack
+     - Accelerators
+     - Shape of Azure post OpenAI models
   
    ---
 
