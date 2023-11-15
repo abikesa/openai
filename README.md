@@ -1,11 +1,11 @@
 ![](anthropocene.png)
 
 ```
-1. Physical vs. Meta
-                    \
-3. Epistemology ->  2. Identity -> 5. Time -> 6. Change
-                    /
-                     4. Ontology
+1. Physical vs. Meta/Genres
+                           \
+ 3. Epistemology/Modes ->  2. Identity/History -> 5. Time/Voicing -> 6. Change/Pocket
+                           /
+                            4. Ontology/Qualities
 ```
 
 1. Modes
