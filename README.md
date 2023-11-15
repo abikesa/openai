@@ -53,3 +53,24 @@
    - AI is about individual empowerment
    - Future that we'll architect together
    - Building agents that empower your journey
+
+   ---
+
+   - [Azure credits](https://www.youtube.com/watch?v=U9mJuUkhUzk): 15:00/45:35
+   - Work loads
+   - Data patterns
+  
+   ---
+
+   - User experience = ethics quite literally; and the individual users in the market place have spoken loudly in response to ChatGPT
+   - AI has been here and nothing revolutionary in the models happenned between 11/2022-11/2023; its just the chat interface!
+   - This is the spice that hands `agency` to one who has been denied it by forces of history and biology
+
+   
+```
+1. Hardware, OS, Cloud
+                      \
+          3. OpenAI -> 2. GPT -> 5. Chat/DALLE/Plugins -> 6. UserExperience
+                      /
+                       4. API/GUI
+```
