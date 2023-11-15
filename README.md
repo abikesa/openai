@@ -73,7 +73,7 @@
 
    - User experience = ethics quite literally; and the individual users in the market place have spoken loudly in response to ChatGPT
    - AI has been here and nothing revolutionary in the models happenned between 11/2022-11/2023; its just the chat interface!
-   - This is the spice that hands `agency` to one who has been denied it by forces of history and biology
+   - This is the spice that hands `agency` to one who has been denied it by forces of history and biology; `empowering`
 
    
 ```
