@@ -21,7 +21,7 @@
      - Not at all as data-intensive as the underlying models
      - `So OpenAI can do this "safely" away from Microsoft`
    - Ontology
-   - [Time](https://github.com/abikesa/openai/blob/main/anthropocene.png)/[Scale](https://www.youtube.com/watch?v=L_Guz73e6fw)/[Power](https://www.youtube.com/watch?v=U9mJuUkhUzk)
+   - [Time](https://github.com/abikesa/openai/blob/main/anthropocene.png)/[Scale](https://www.youtube.com/watch?v=L_Guz73e6fw)[/](https://www.youtube.com/watch?v=NjpNG0CJRMM)[Power](https://www.youtube.com/watch?v=U9mJuUkhUzk)
      - Microsoft's Azure
    - Change
 6. Pocket
