@@ -26,12 +26,20 @@
    - Change
 6. Pocket
    
-   ---
+```
+         1. Antiquarian/Jobs
+                             \
+     3. Monumental/Altman -> 2. History -> 5. Uses/Abuses -> 6. Growth/Leadership
+                             /
+                              4. Critical/Board
+```
    
    gradual iterative development of `agents`:: [GPTs](https://www.youtube.com/watch?v=U9mJuUkhUzk) (publishable)
    - [Safety](https://www.youtube.com/watch?v=U9mJuUkhUzk) best approached this way
      - Do regulators do the same or they issue monstrous laws to stiffle this sort of free, responsible, iteration?
      - Key argument for essay with Charles
+     - The [Board ousted Altman](https://www.wsj.com/tech/sam-altman-departs-open-ai-mira-murati-interim-ceo-41f6d51e) shortly after this
+       - One source of tension between Altman and some board members was around whether OpenAI was fully considering the safety implications of the products it has rolled out as part of its rapid expansion of commercial offerings, people familiar with the matter said.
    - Instructions
    - Expanded knowledge
    - ***Actions***
