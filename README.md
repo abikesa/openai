@@ -27,11 +27,11 @@
 6. Pocket
    
 ```
-         1. Antiquarian/Jobs
-                             \
-     3. Monumental/Altman -> 2. History -> 5. Uses/Abuses -> 6. Growth/Leadership
-                             /
-                              4. Critical/Board
+             1. Antiquarian/Jobs/Tension
+                                        \
+     3. Monumental/Altman/Integument ->  2. History/Body/Catecholamines -> 5. Uses-Abuses/Mind/Acetylcholine -> 6. Growth-Leadership/Soul/γ-Aminobutyric acid
+                                        /
+                                         4. Critical/Board/Release
 ```
    
    gradual iterative development of `agents`:: [GPTs](https://www.youtube.com/watch?v=U9mJuUkhUzk) (publishable)
