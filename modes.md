@@ -7,8 +7,8 @@
 ```
 
 
-1. ChatGPT [Tribes](https://stratechery.com/2023/openais-misalignment-and-microsofts-gain/)
-2. DALLE
+1. [Tribes](https://stratechery.com/2023/openais-misalignment-and-microsofts-gain/)
+2. Challenges
 3. Knowledge
    - Data
      - Updated
@@ -16,6 +16,9 @@
      - Fixed, Varying, $\frac{\partial Y}{\partial t}$
    - [Skills](https://jhufena.github.io/home/act1/act_1_0/act_1_0_3.html)
      - To deal with the challenge of error
+4. Ethics
+5. Process
+6. Hierarchical 
        
 
    ---
