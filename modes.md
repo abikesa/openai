@@ -14,6 +14,9 @@
      - Updated
    - Credo
      - Fixed, Varying, $\frac{\partial Y}{\partial t}$
+   - [Skills](https://jhufena.github.io/home/act1/act_1_0/act_1_0_3.html)
+     - To deal with the challenge of error
+       
 
    ---
 
