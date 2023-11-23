@@ -82,6 +82,7 @@
      - But from their regard of their messianic self-interest of benefiting humanity in their philanthropic arm
      - In the end the power, `pouvoir`, embodied by [Microsoft](https://en.wikipedia.org/wiki/Sam_Altman#Microsoft), proved to be the key determinant.
    - There are implied power structures and hierarchies
+   - Reverse of the ecologic effect: a non-benevolent motiv of motivation, one unapollogetically focused on self-interest, is self-motivating. The sum of such individual motivations arguably is more beneficial than the deliberate attempt at beneficience
    
 9. Rhythm:: Verb
    - Activates the noun
