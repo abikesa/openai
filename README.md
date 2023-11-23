@@ -87,6 +87,7 @@
    - Activates the noun
    - Time signature
    - Tempo
+   - Agency, "voice", of the subject seen here
     
 11. Effect
    - Meaning or semantics
