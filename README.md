@@ -50,8 +50,53 @@
    - Middle School: 23/45
    - Video game character picking up coins
 
-    ----
+```
+             1. Notes
+                      \
+          3. Scale -> 2. Chord -> 5. Rhythm -> 6. Effect
+                      /
+                       4. Motiv
+```
 
+1. Notes:: Alphabet
+   - Voir
+   - Phonology
+   - Harmonic series: `meaning`
+   - Even perhaps "the truth"
+     
+3. Chord:: Modifier
+   - Emibala
+   - Harmonic painting of mood
+
+5. Scale
+   - From perspective of a mode
+     
+7. Motiv:: Subject
+   - Self-contained melodic unit
+   - Noun, subject-object
+   - Active-passive
+   - Foucault is unwittingly incorporated here
+     - Not from the `benevolence` of the butcher, brewer, baker that we expect our dinner
+     - But from their regard of their self-interest
+     - Likewise, it wasn't "for the benefit of humanity" that OpenAI released chatGPT to the world
+     - But from their regard of their messianic self-interest of benefiting humanity in their philanthropic arm
+     - In the end the power, `pouvoir`, embodied by [Microsoft](https://en.wikipedia.org/wiki/Sam_Altman#Microsoft), proved to be the key determinant.
+   - There are implied power structures and hierarchies
+   
+9. Rhythm:: Verb
+   - Activates the noun
+   - Time signature
+   - Tempo
+    
+11. Effect
+   - Meaning or semantics
+   - Phonological + Syntactic: intrinsic
+   - Extrinsic
+   - Analogy
+
+
+      ---
+     
    - Agent-like experiences
    - Shopify, etc
    - New Assistants API to streamline this
