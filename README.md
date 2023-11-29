@@ -34,8 +34,9 @@
                                          4. Critical/Board/Release
 ```
    
-   gradual iterative development of `agents`:: [GPTs](https://www.youtube.com/watch?v=U9mJuUkhUzk) (publishable)
+   gradual [iterative](https://www.youtube.com/watch?v=X15o2sG8HF4) development of `agents`:: [GPTs](https://www.youtube.com/watch?v=U9mJuUkhUzk) (publishable)
    - [Safety](https://www.youtube.com/watch?v=U9mJuUkhUzk) best approached this way
+   - Iterative innovation, regulation, and production is the way to go: [19:21](https://www.youtube.com/watch?v=X15o2sG8HF4)/44:26
      - Do regulators do the same or they issue monstrous laws to stiffle this sort of free, responsible, iteration?
      - Key argument for essay with Charles
      - The [Board ousted Altman](https://www.wsj.com/tech/sam-altman-departs-open-ai-mira-murati-interim-ceo-41f6d51e) shortly after this
