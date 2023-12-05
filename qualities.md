@@ -6,6 +6,13 @@
                    4. Subject
 ```
 
+1. Equal access to AGI by all of Humanity
+2. [Costs](https://github.com/abikesa/datasets/blob/main/process.md) of producing AGI
+3. Pragmatism and need for revenue streams (e.g. ChatGPT)
+4. Founding members of OpenAI and their core millenial ideals
+5. Board structure, principles, and core mission
+6. Incoherence is revealed by internecine battles
+
 ![](https://i0.wp.com/stratechery.com/wp-content/uploads/2023/11/openai-2.png?w=1280&ssl=1)
 
 ```
