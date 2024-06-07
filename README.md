@@ -1,144 +1,22 @@
-![](anthropocene.png)
 
-```
-1. Physical vs. Meta/Genres
-                           \
- 3. Epistemology/Modes ->  2. Identity/History -> 5. Time/Voicing -> 6. Change/Pocket
-                           /
-                            4. Ontology/Qualities
-```
+            1. Individual/Passion/Challenges
+                                           \
+                           2. Knowledge -> 4. Communication -> 5. Team/Network/Leadership/Decisions/Feedback/Professionalism -> 6. Accomplishments/Exceptional
+                                           /
+                                           3. Technical/Skills/Abilities
 
-1. Genres
-2. History
-3. Modes
-4. History
-5. Qualities
-   - Physical vs. Meta
-     - Data vs. Credo
-   - Identity
-   - Epistemology
-     - Fine-tune:: OpenAI, [RLHF](https://en.wikipedia.org/wiki/Reinforcement_learning_from_human_feedback)
-     - Not at all as data-intensive as the underlying models
-     - `So OpenAI can do this "safely" away from Microsoft`
-   - Ontology
-   - [Time](https://github.com/abikesa/openai/blob/main/anthropocene.png)[/](https://www.youtube.com/watch?v=tY6Y4YjinDg)[Scale](https://www.youtube.com/watch?v=L_Guz73e6fw)[/](https://www.youtube.com/watch?v=NjpNG0CJRMM)[Power](https://www.youtube.com/watch?v=U9mJuUkhUzk)
-     - Microsoft's Azure
-   - Change
-6. Pocket
-   
-```
-             1. Antiquarian/Jobs/Tension
-                                        \
-     3. Monumental/Altman/Integument ->  2. History/Body/Catecholamines -> 5. Uses-Abuses/Mind/Acetylcholine -> 6. Growth-Leadership/Soul/γ-Aminobutyric acid
-                                        /
-                                         4. Critical/Board/Release
-```
-   
-   gradual [iterative](https://www.youtube.com/watch?v=X15o2sG8HF4) development of `agents`:: [GPTs](https://www.youtube.com/watch?v=U9mJuUkhUzk) (publishable)
-   - [Safety](https://www.youtube.com/watch?v=U9mJuUkhUzk) best approached this way
-   - Iterative innovation, regulation, and production is the way to go: [19:21](https://www.youtube.com/watch?v=X15o2sG8HF4)/44:26
-     - Do regulators do the same or they issue monstrous laws to stiffle this sort of free, responsible, iteration?
-     - Key argument for essay with Charles
-     - The [Board ousted Altman](https://www.wsj.com/tech/sam-altman-departs-open-ai-mira-murati-interim-ceo-41f6d51e) shortly after this
-       - One source of tension between Altman and some board members was around whether OpenAI was fully considering the safety implications of the products it has rolled out as part of its rapid expansion of commercial offerings, people familiar with the matter said.
-   - Instructions
-   - Expanded knowledge
-   - ***Actions***
-  
-   ---
+                                           
 
-   - Example of GPTs: code.org
-   - Middle School: 23/45
-   - Video game character picking up coins
+### Nodes: [OpenAI-Microsoft](https://abikesa.github.io/sociology/)
+- Google's Transformer
+- "Compute" is the thing
 
-```
-             1. Notes
-                      \
-          3. Scale -> 2. Chord -> 5. Rhythm -> 6. Effect
-                      /
-                       4. Motiv
-```
+### Edges: [Partnership](https://abikesa.github.io/graphtheory/)
+- Destiny of human race
+- [Faustian bargain](hottest.md)
 
-1. Notes:: Alphabet
-   - Voir
-   - Phonology
-   - Harmonic series: `meaning`
-   - Even perhaps "the truth"
-     
-3. Chord:: Modifier
-   - Emibala
-   - Harmonic painting of mood
-
-5. Scale
-   - From perspective of a mode
-     
-7. Motiv:: Subject
-   - Self-contained melodic unit
-   - Noun, subject-object
-   - Active-passive
-   - Foucault is unwittingly incorporated here
-     - Not from the `benevolence` of the butcher, brewer, baker that we expect our dinner
-     - But from their regard of their self-interest
-     - Likewise, it wasn't "for the benefit of humanity" that OpenAI released chatGPT to the world
-     - But from their regard of their messianic self-interest of benefiting humanity in their philanthropic arm
-     - In the end the power, `pouvoir`, embodied by [Microsoft](https://en.wikipedia.org/wiki/Sam_Altman#Microsoft), proved to be the key determinant.
-   - There are implied power structures and hierarchies
-   - Reverse of the ecologic effect: a non-benevolent motiv of motivation, one unapollogetically focused on self-interest, is self-motivating. The sum of such individual motivations arguably is more beneficial than the deliberate attempt at beneficience
-   
-9. Rhythm:: Verb
-   - Activates the noun
-   - Time signature
-   - Tempo
-   - Agency, "voice", of the subject seen here
-    
-11. Effect
-   - Meaning or semantics
-   - Phonological + Syntactic: intrinsic
-   - Extrinsic
-   - Analogy
+### Vastness: Azure
+- Ambiguous identity
+- Non-profit vs. For-profit
 
 
-      ---
-     
-   - Agent-like experiences
-   - Shopify, etc
-   - New Assistants API to streamline this
-
-    ---
-
-   - GPTs are precursors to agents who'll be doing tasks for you
-   - We believe in gradual iterative development of agents
-   - Help you to know what the world is going to be like
-  
-   ---
-
-   - AI is about individual empowerment
-   - Future that we'll architect together
-   - Building agents that empower your journey
-
-   ---
-
-   - [Azure credits](https://www.youtube.com/watch?v=U9mJuUkhUzk): 15:00/45:35
-   - Work loads
-   - Data patterns
-   - Infrastructure
-     - Power
-     - DC
-     - Rack
-     - Accelerators
-     - Shape of Azure post OpenAI models
-  
-   ---
-
-   - User experience = ethics quite literally; and the individual users in the market place have spoken loudly in response to ChatGPT
-   - AI has been here and nothing revolutionary in the models happenned between 11/2022-11/2023; its just the chat interface!
-   - This is the spice that hands `agency` to one who has been denied it by forces of history and biology; `empowering`
-
-   
-```
-1. Hardware, OS, Cloud
-                      \
-          3. OpenAI -> 2. GPT -> 5. Chat/DALLE/Plugins -> 6. UserExperience
-                      /
-                       4. API/GUI
-```
