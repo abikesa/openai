@@ -1,9 +1,10 @@
+![](anthropocene.png)
 
-            1. Individual/Passion/Challenges
+                               1. Passions
                                            \
-                           2. Knowledge -> 4. Communication -> 5. Team/Network/Leadership/Decisions/Feedback/Professionalism -> 6. Accomplishments/Exceptional
+                           2. Knowledge -> 4. Savy -> 5. Microsoft -> 6. Azure
                                            /
-                                           3. Technical/Skills/Abilities
+                                           3. Skills
 
                                            
 
