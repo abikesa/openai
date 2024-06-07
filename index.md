@@ -6,7 +6,7 @@
                                              / 
                                              3. Compute
 
-                                           
+![](https://jhustata.github.io/basic/_images/931e5210b5af8aebf9a0ddf56abccf41d6a44d371877c6f1d6db6a58d81cef4d.png)                                           
 
 ### Nodes: [OpenAI-Microsoft](https://abikesa.github.io/sociology/)
 - Google's [Transformer](https://research.google/blog/transformer-a-novel-neural-network-architecture-for-language-understanding/)
